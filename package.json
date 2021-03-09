@@ -1,0 +1,10 @@
+{
+  "name": "Jamstack-Store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hsins-Lab/Jamstack-Store.git",
+  "author": "Hsins <hsinspeng@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
